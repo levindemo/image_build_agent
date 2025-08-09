@@ -3,3 +3,4 @@ langgraph>=0.0.43
 langchain-openai>=0.0.8
 langchain-community>=0.0.28
 python-dotenv>=1.0.0
+langchain-ollama

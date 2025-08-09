@@ -210,3 +210,4 @@ venv
 .idea
 uploads/
 generated_files/
+*.db
